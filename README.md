@@ -12,12 +12,13 @@ Laboratory work numbers:
     - fast sort with limited recursion depth
     - merge sort 
 3. Stack and queue
+4. Pyramid and Pile
 4. Binary search tree
-5. AVL
-6. Coding algorithms
+6. AVL
+7. Coding algorithms
     - arithmetic coding
     - Hamming
     - code Huffman code
     - Gray's codes
     - LZ 78
-7. Dynamic programming
+8. Dynamic programming
